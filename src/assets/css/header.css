@@ -1,0 +1,28 @@
+.header {
+    margin: 30px 70px;
+}
+.title {
+ margin-bottom: 30px;
+}
+.input__value {
+    width: 500px;
+    height: 40px;
+    border-radius: 5px;
+   
+}
+.btn {
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #000080;
+    color: white;
+    cursor: pointer;
+     margin-left: 10px;
+}
+.input__value, .btn {
+    margin-bottom: 30px;
+   
+}
+.btn:hover {
+    opacity: 0.8;
+}
